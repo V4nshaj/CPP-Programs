@@ -7,7 +7,7 @@ class calculator
 {
     int a, b;
     public:
-        calculator(int x, int y)
+        calculator(int x, int y)//Constructor Created 
         {
             a = x;
             b = y;
